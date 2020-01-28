@@ -7,6 +7,9 @@ export default class ExpenseEntries extends React.Component{
     super(props);
   }
 
+
+
+
   render(){
 
     return (
